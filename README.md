@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/37c0e986-756e-4479-b4d1-ecd3192addfd" />
+
 # Git Commit Helper
 
 Interactive Python CLI tool for writing better git commit messages following the Conventional Commits specification.
@@ -126,6 +128,9 @@ MIT License - feel free to use and modify!
 ## Contributing
 
 Contributions welcome! Please feel free to submit a Pull Request.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd7b25c1-a155-48eb-bc3f-cd04dafca2a8" />
+
 
 ## 🙏 Credits
 
